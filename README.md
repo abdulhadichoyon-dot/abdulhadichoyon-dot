@@ -205,8 +205,8 @@ That curiosity usually becomes a project.
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c++&perline=9" alt="Technology icons"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadichoyon-dot&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages"/>
 
 <br/><br/>
 
