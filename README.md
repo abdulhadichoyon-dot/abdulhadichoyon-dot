@@ -60,6 +60,7 @@ Programing language
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,kotlin&perline=9" alt="Technology icons"/>
 
+
 Frontend & Backend
 
 <img src="https://skillicons.dev/icons?i=git,github,firebase,googlecloud&perline=9" alt="Technology icons"/>
