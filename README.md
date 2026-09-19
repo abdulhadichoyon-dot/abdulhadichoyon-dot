@@ -205,7 +205,7 @@ That curiosity usually becomes a project.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c++&perline=9" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,kotlin&perline=9" alt="Technology icons"/>
 
 
 <br/><br/>
