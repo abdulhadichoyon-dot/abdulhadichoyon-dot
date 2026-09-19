@@ -56,7 +56,7 @@ Currently:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,github,firebase&perline=9" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,github,firebase,googlecloud&perline=9" alt="Technology icons"/>
 
 <br/><br/>
 
