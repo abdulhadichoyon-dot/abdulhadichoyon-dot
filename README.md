@@ -1,278 +1,324 @@
-<div align="center"><h1><b>👋 Hey, I'm Choyon</b></h1><h3><b>💻 Developer • 🤖 AI Explorer • 🎨 Creative Tech Enthusiast</b></h3><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+ideas+into+real+projects;Exploring+Web+Development+%26+AI;Learning%2C+Creating%2C+Improving;Turning+curiosity+into+code+%F0%9F%9A%80;One+project+at+a+time+%E2%9A%A1" alt="Animated Introduction" /><br/><a href="https://github.com/abdulhadichoyon-dot">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=CHOYON&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Choyon header"/>
+
+<h1>👋 Hey, I'm Choyon</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Student+%7C+Web+Developer+%7C+AI+Explorer;Building+Ideas+%E2%86%92+Projects+%E2%86%92+Real+Experiments;Learning+by+Building+%F0%9F%9A%80;One+Project+at+a+Time+%F0%9F%A7%A0" alt="Typing animation"/>
+
+<br/>
+
+<a href="https://github.com/abdulhadichoyon-dot">
+<img src="https://img.shields.io/badge/GitHub-abdulhadichoyon--dot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.instagram.com/abdul_hadi_choyon">
-  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/abdul_hadi_choyon/">
+<img src="https://img.shields.io/badge/Instagram-@abdul__hadi__choyon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://t.me/abdul_hadi_choyon">
-  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-@abdul__hadi__choyon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="mailto:abdul.hadi.chayan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abdulhadichoyon-dot&style=for-the-badge&color=blue" alt="Profile Views" /></div>---
+<br/><br/>
 
-<h2><b>🧠 About Me</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Student+%2B+Technology+Enthusiast;Learning+Web+Development;Exploring+Artificial+Intelligence;Building+creative+digital+projects;Understanding+how+technology+works+under+the+hood" /></div>I'm a student and technology enthusiast who enjoys exploring the world of software, AI, web development, and digital creativity.
+<img src="https://komarev.com/ghpvc/?username=abdulhadichoyon-dot&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
-I like understanding how things work under the hood rather than simply using them.
-
-Curiosity → Learning → Building → Breaking → Fixing → Improving
-
-I'm currently focused on growing my skills, experimenting with ideas, and turning small concepts into real digital projects.
-
-⚡ My Mindset
-
-«Learn deeply. Build honestly. Improve constantly.»
-
-I believe good software isn't created by knowing everything.
-
-It's created by being willing to keep learning.
+</div>
 
 ---
 
-<h2><b>🚀 What I'm Interested In</b></h2><table>
-<tr>
-<td width="50%"><h3><b>💻 Development</b></h3>- Web Development
-- Frontend Engineering
-- JavaScript
-- React
-- Modern UI/UX
-- Interactive Websites
-- Git & GitHub
-- Deployment & Hosting
+<h2><b>🧑‍💻 About Me</b></h2>
 
-</td><td width="50%"><h3><b>🤖 AI & Technology</b></h3>- Artificial Intelligence
-- Machine Learning
-- AI Architecture
-- Neural Networks
-- Intelligent Systems
-- AI-powered Applications
-- Automation
-- Future Technologies
+```text
+I'm Choyon, a student and self-taught tech enthusiast from Bangladesh.
+
+I like taking an idea, turning it into a project,
+breaking things, fixing them, and learning how the system actually works.
+
+My main playground:
+  🌐 Web Development
+  🤖 Artificial Intelligence
+  🧠 Programming & Systems
+  🎬 Creative Editing & Motion
+  🚀 Experimental Projects
+
+Currently:
+  → Learning
+  → Building
+  → Experimenting
+  → Improving
+```
+
+> **I don't want to only use technology. I want to understand how it works.**
+
+---
+
+<h2><b>⚡ Skills I'm Growing</b></h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,github,firebase&perline=9" alt="Technology icons"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React;Python+%E2%80%A2+Java+%E2%80%A2+Git+%E2%80%A2+GitHub;Firebase+%E2%80%A2+APIs+%E2%80%A2+Deployment;UI+%E2%80%A2+Animation+%E2%80%A2+Creative+Editing" alt="Skills animation"/>
+
+</div>
+
+---
+
+<h2><b>🚀 What I'm Building</b></h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Systems
+
+Exploring AI beyond simply calling an API.
+
+Learning about:
+
+- Neural networks
+- Transformers
+- AI agents
+- Memory systems
+- Retrieval
+- Model architecture
+- AI-powered applications
 
 </td>
-</tr><tr>
-<td width="50%"><h3><b>🎨 Creative Tech</b></h3>- Video Editing
-- Motion Graphics
-- VFX
-- Creative Web Experiences
-- Visual Design
-- Animation
-- Digital Content
+<td width="50%">
 
-</td><td width="50%"><h3><b>🌱 Learning</b></h3>- Python
+### 🌐 Web Experiences
+
+Building responsive and interactive websites with:
+
+- HTML
+- CSS
 - JavaScript
 - React
-- AI Engineering
-- System Design
-- Problem Solving
-- Open-source workflows
+- Firebase
+- APIs
+- Modern UI/UX
 
 </td>
 </tr>
-</table>---
+<tr>
+<td width="50%">
 
-<h2><b>🛠️ Tech Stack</b></h2><h3><b>Languages</b></h3><div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" alt="Languages" /></div><h3><b>Frameworks & Tools</b></h3><div align="center"><img src="https://skillicons.dev/icons?i=react,git,github,firebase,gcp&theme=dark" alt="Frameworks and Tools" /></div>---
+### 🎬 Creative Tech
 
-<h2><b>🌌 My Development Philosophy</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=DON'T+JUST+USE+TECHNOLOGY.;UNDERSTAND+IT.;DON'T+JUST+COPY+PROJECTS.;BUILD+YOUR+OWN.;DON'T+STOP+IMPROVING." /></div>+------------------------------------------------------+
-|                                                      |
-|   DON'T JUST USE TECHNOLOGY.                        |
-|                                                      |
-|   UNDERSTAND IT.                                    |
-|                                                      |
-|   DON'T JUST COPY PROJECTS.                         |
-|                                                      |
-|   BUILD YOUR OWN.                                   |
-|                                                      |
-+------------------------------------------------------+
+Mixing technology with:
 
-I enjoy taking an idea from:
+- Video editing
+- Motion graphics
+- Anime content
+- Visual effects
+- Interactive experiences
 
-Concept → Design → Code → Testing → Deployment → Improvement
+</td>
+<td width="50%">
 
-That's where the fun starts. 🚀
+### 🧪 Experiments
 
----
+I like building things just to discover:
 
-<h2><b>🔥 What I'm Building</b></h2><h3><b>🌐 Web Projects</b></h3>I enjoy creating websites that are more than static pages.
+**"What happens if I do this?"**
 
-My goal is to build experiences that feel:
+That curiosity usually becomes a project.
 
-- Modern
-- Interactive
-- Fast
-- Clean
-- Responsive
-- Purpose-driven
-
-<h3><b>🤖 AI Projects</b></h3>I'm interested in building AI systems and understanding the architecture behind them.
-
-Not just:
-
-"Send prompt → Get answer"
-
-but also:
-
-Input
-  ↓
-Processing
-  ↓
-Reasoning / Logic
-  ↓
-Memory
-  ↓
-Retrieval
-  ↓
-Model
-  ↓
-Response
-  ↓
-Evaluation
+</td>
+</tr>
+</table>
 
 ---
 
-<h2><b>📊 GitHub Stats</b></h2><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdulhadichoyon-dot&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadichoyon-dot&layout=compact&hide_border=true" height="180" /></div>---
+<h2><b>🧩 Featured Projects</b></h2>
 
-<h2><b>🔥 Contribution Streak</b></h2><div align="center"><img src="https://streak-stats.demolab.com?user=abdulhadichoyon-dot&hide_border=true" alt="GitHub Streak" /></div>---
+<table>
+<tr>
+<th>Project</th>
+<th>What it is</th>
+</tr>
+<tr>
+<td><b>🤖 Rexxeco XZ</b></td>
+<td>AI agent and intelligent-system experiments</td>
+</tr>
+<tr>
+<td><b>🎬 RX Anime</b></td>
+<td>Anime-focused web platform and React project</td>
+</tr>
+<tr>
+<td><b>🖥️ RX Deck</b></td>
+<td>AI-powered presentation and slide-generation concept</td>
+</tr>
+<tr>
+<td><b>🧠 Learning Engine</b></td>
+<td>Experimental architecture for AI learning, memory and retrieval</td>
+</tr>
+</table>
 
-<h2><b>🐍 Contribution Snake</b></h2><div align="center"><img src="https://raw.githubusercontent.com/abdulhadichoyon-dot/abdulhadichoyon-dot/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /></div>---
+<div align="center">
 
-<h2><b>📈 GitHub Activity</b></h2><div align="center"><a href="https://github.com/abdulhadichoyon-dot"><img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhadichoyon-dot&hide_border=true" alt="GitHub Activity Graph" /></a></div>---
+<a href="https://github.com/abdulhadichoyon-dot?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
-<h2><b>🧩 Skills I'm Growing</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=780&lines=Frontend+Development+%E2%86%92+Growing;JavaScript+%E2%86%92+Growing;React+%E2%86%92+Growing;Python+%E2%86%92+Growing;AI+%2F+ML+%E2%86%92+Growing;System+Design+%E2%86%92+Growing;Creative+Tech+%E2%86%92+Growing" alt="Animated Skills" /><br/><br/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,github,firebase,gcp&theme=dark" alt="Growing Skills" /><br/><br/>
+---
 
-<img src="https://img.shields.io/badge/Frontend-█████████████░░-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript-████████████░░░-F7DF1E?style=for-the-badge&labelColor=161b22" />
-<img src="https://img.shields.io/badge/React-██████████░░░░░-61DAFB?style=for-the-badge&labelColor=161b22" /><br/><img src="https://img.shields.io/badge/Python-████████░░░░░░░-3776AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-███████░░░░░░░░-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-██████░░░░░░░░░-8A2BE2?style=for-the-badge" /></div>---
+<h2><b>🧠 My Development Mindset</b></h2>
 
-<h2><b>🎯 Current Direction</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=LEARN+MORE;BUILD+MORE;BREAK+MORE;FIX+MORE;BUILD+BETTER" /></div>                    ┌─────────────────┐
-                    │    LEARN MORE   │
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Don't+just+copy+the+code.;Understand+the+idea+behind+the+code.;Build+it.+Break+it.+Fix+it.;Every+bug+is+another+piece+of+the+puzzle." alt="Mindset animation"/>
+
+</div>
+
+<br/>
+
+```text
+        IDEA
+          │
+          ▼
+       BUILD 🛠️
+          │
+          ▼
+       BREAK 💥
+          │
+          ▼
+       DEBUG 🔍
+          │
+          ▼
+       LEARN 🧠
+          │
+          ▼
+       IMPROVE 🚀
+          │
+          └──────────────► REPEAT
+```
+
+---
+
+<h2><b>📊 GitHub Overview</b></h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulhadichoyon-dot&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadichoyon-dot&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadichoyon-dot&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+<h2><b>📈 Activity</b></h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhadichoyon-dot&theme=github-compact&hide_border=true&area=true&radius=8" width="95%" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+<h2><b>🎯 Currently Exploring</b></h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Web+Development;React+%26+Modern+Frontend;Python+%26+AI;Neural+Networks+%26+Transformers;AI+Agents+%26+Memory;Better+UI%2FUX+%26+Animations" alt="Currently exploring animation"/>
+
+</div>
+
+---
+
+<h2><b>🛠️ Creative Toolkit</b></h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
+<img src="https://img.shields.io/badge/Alight%20Motion-111111?style=for-the-badge" alt="Alight Motion"/>
+<img src="https://img.shields.io/badge/VN%20Editor-111111?style=for-the-badge" alt="VN Editor"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" alt="Firebase"/>
+
+</div>
+
+---
+
+<h2><b>🌱 Learning Roadmap</b></h2>
+
+```text
+                    ┌─────────────────┐
+                    │  WEB DEVELOPMENT │
                     └────────┬────────┘
                              │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+            HTML            CSS        JavaScript
+              │              │              │
+              └──────────────┼──────────────┘
                              ▼
-                    ┌─────────────────┐
-                    │   BUILD MORE    │
-                    └────────┬────────┘
+                           React
                              │
                              ▼
-                    ┌─────────────────┐
-                    │   BREAK MORE    │
-                    └────────┬────────┘
+                     Real Web Projects
+                             │
+              ┌──────────────┴──────────────┐
+              ▼                             ▼
+           Backend                       Firebase
+              │                             │
+              └──────────────┬──────────────┘
+                             ▼
+                            AI
+                             │
+          ┌──────────────────┼──────────────────┐
+          ▼                  ▼                  ▼
+       Python          Neural Networks      Transformers
                              │
                              ▼
-                    ┌─────────────────┐
-                    │   FIX MORE      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   BUILD BETTER  │
-                    └─────────────────┘
+                       AI Applications
+```
 
 ---
 
-<h2><b>🧩 Learning Journey</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Web+Development;JavaScript+%2F+React;Python;Artificial+Intelligence;Creative+Technology" /></div>I'm continuously improving my skills through experimentation and hands-on projects.
+<h2><b>📬 Find Me</b></h2>
 
-Current Focus
+<div align="center">
 
-Web Development
-       +
-JavaScript / React
-       +
-Python
-       +
-Artificial Intelligence
-       +
-Creative Technology
+<a href="https://github.com/abdulhadichoyon-dot">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
 
-The goal isn't to rush.
-
-The goal is to understand.
-
----
-
-<h2><b>💡 Projects & Experiments</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Ideas+%E2%86%92+Experiments;Experiments+%E2%86%92+Projects;Projects+%E2%86%92+Lessons;Lessons+%E2%86%92+Experience" /></div>This profile will gradually become a collection of things I've built, tested, learned from, and improved.
-
-Every project represents another step in the journey.
-
-Ideas
- ↓
-Experiments
- ↓
-Projects
- ↓
-Lessons
- ↓
-Experience
-
----
-
-<h2><b>🎨 Creative Side</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Code+%2B+Visuals+%2B+Interaction;Video+Editing;Motion+Design;VFX;Animation;Visual+Storytelling" /></div>Technology isn't only about logic.
-
-I also enjoy the creative side of digital work.
-
-🎬 Creative Interests
-
-- Video Editing
-- Motion Design
-- VFX
-- Animation
-- Visual Storytelling
-- Creative Web Design
-
-I like combining code + visuals + interaction to create something that actually feels alive.
-
----
-
-<h2><b>🤝 Let's Connect</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Let's+build+something+interesting.;Technology+%2B+Creativity+%2B+Curiosity;Always+Learning.;Always+Exploring." /><br/><br/>
-
-<a href="https://www.instagram.com/abdul_hadi_choyon">
-  <img src="https://img.shields.io/badge/Instagram-@abdul__hadi__choyon-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><br/><br/>
+<a href="https://www.instagram.com/abdul_hadi_choyon/">
+<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile"/>
+</a>
 
 <a href="https://t.me/abdul_hadi_choyon">
-  <img src="https://img.shields.io/badge/Telegram-@abdul__hadi__choyon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a><br/><br/>
+<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 <a href="mailto:abdul.hadi.chayan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abdul.hadi.chayan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><br/><br/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<img src="https://img.shields.io/badge/Discord-abdulhadichoyon-5865F2?style=for-the-badge&logo=discord&logoColor=white"/><br/><code>abdulhadichoyon</code>
-
-</div>---
-
-<h2><b>📬 Contact</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2300&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Web+Development;Artificial+Intelligence;Creative+Technology;Projects;Learning" /></div>Want to talk about:
-
-💻 Web Development
-🤖 AI
-🎨 Creative Technology
-🚀 Projects
-🧠 Learning
-
-You can reach me through the links above.
+</div>
 
 ---
 
-<h2><b>🖤 A Little More About This Profile</b></h2><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Not+just+a+README.;A+small+window+into+my+journey.;Learning.;Building.;Improving." /></div>This README is not meant to be a résumé dumped into Markdown.
+<div align="center">
 
-It's a small window into what I'm learning, what I'm building, and where I'm heading.
+<h3>✨ Thanks for stopping by ✨</h3>
 
-Technology changes.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Keep+learning.;Keep+building.;Keep+exploring.;The+next+project+is+already+loading...+%F0%9F%9A%80" alt="Footer animation"/>
 
-Tools change.
+<br/><br/>
 
-Frameworks change.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
 
-But the habit of learning and building stays.
-
----
-
-<div align="center"><h2><b>⚡ Keep Learning. Keep Building. Keep Exploring.</b></h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Repeat" alt="Footer Typing Animation" /><br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling" width="100%" /></div>
+</div>
