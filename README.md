@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=CHOYON&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Choyon header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=CHOYON&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=80" width="100%" alt="Choyon header"/>
 
 <h1>👋 Hey, I'm Choyon</h1>
 
@@ -210,8 +210,10 @@ That curiosity usually becomes a project.
 ---
 
 <h2><b>📊 GitHub Overview</b></h2>
-###Top language
+
 <div align="center">
+
+Top Language
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,kotlin&perline=9" alt="Technology icons"/>
 
