@@ -64,7 +64,7 @@ Programing language
 
 Frontend & Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,firebase,googlecloud,aws,oracle&perline=9" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,googlecloud,aws&perline=9" alt="Technology icons"/>
 
 <br/><br/>
 
@@ -210,7 +210,7 @@ That curiosity usually becomes a project.
 ---
 
 <h2><b>📊 GitHub Overview</b></h2>
-
+###Top language
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,kotlin&perline=9" alt="Technology icons"/>
