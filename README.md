@@ -220,7 +220,7 @@ That curiosity usually becomes a project.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhadichoyon-dot&theme=github-compact&hide_border=true&area=true&radius=8" width="95%" alt="GitHub activity graph"/>
+☠️
 
 </div>
 
