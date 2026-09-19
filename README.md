@@ -64,7 +64,7 @@ Programing language
 
 Frontend & Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,firebase,googlecloud&perline=9" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,googlecloud,aistudio&perline=9" alt="Technology icons"/>
 
 <br/><br/>
 
