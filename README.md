@@ -55,8 +55,10 @@ Currently:
 <h2><b>⚡ Skills I'm Growing</b></h2>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,github,firebase,googlecloud,kotlin&perline=9" alt="Technology icons"/>
+###Programing language
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,kotlin&perline=9" alt="Technology icons"/>
+###Frontend & Backend
+<img src="https://skillicons.dev/icons?i=git,github,firebase,googlecloud&perline=9" alt="Technology icons"/>
 
 <br/><br/>
 
