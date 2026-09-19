@@ -205,7 +205,6 @@ That curiosity usually becomes a project.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulhadichoyon-dot&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadichoyon-dot&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages"/>
 
